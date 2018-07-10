@@ -2,9 +2,11 @@ package com.qa.pages;
 
 public class LoginPage {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public void loginPage() {
+		System.out.println("login page");
+	}
+	public void loginSet() {
+		System.out.println("login set");
 	}
 
 }
